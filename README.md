@@ -3,8 +3,8 @@ Geographic data from B.C.’s 2022 municipal elections – polling station loca
 
 ## NOTES ##
 
-<!-- VANCOUVER -->
-Thanks to Justin McElroy (@j_mcelroy) for (manually!!!) geolocating Vancouver polling stations the night poll-level results were released. 
+### VANCOUVER 
+Thanks to Justin McElroy ([@j_mcelroy](https://twitter.com/j_mcelroy)) for (manually!!!) geolocating Vancouver polling stations the night poll-level results were released. 
 
 NOTE: There are multiple division IDs associated with three polling stations in Vancouver:
  * Britannia Community Services Centre 
@@ -13,5 +13,5 @@ NOTE: There are multiple division IDs associated with three polling stations in 
 
  You will need to filter/tally results associated with duplicate polling stations accordingly.
 
-<!-- SURREY -->
+### SURREY
 Coming soon...
