@@ -1,0 +1,104 @@
+division_id,poll_station_name,lat,lon
+1,Prince of Wales Secondary School,49.2452993,-123.1571582
+2,Carnarvon Community Elementary School,49.2563265,-123.1738451
+3,Gathering Place Community Centre,49.2777818,-123.123636
+4,Carnegie Community Centre,49.2811691,-123.1000211
+5,Coal Harbour Community Centre,49.2903377,-123.1251081
+6,Crosstown Elementary School,49.2785201,-123.1067612
+7,Vancouver Public Library,49.2797275,-123.1156217
+8,Roundhouse Community Arts and Recreation Centre,49.2734378,-123.121716
+9,Musqueam Community Centre,49.2239429,-123.1990807
+10,Lord Kitchener Elementary School,49.2504196,-123.1807117
+11,Dunbar Community Centre,49.2437609,-123.1857534
+12,False Creek Elementary School,49.2668104,-123.1268112
+13,False Creek Community Centre,49.2696545,-123.1342237
+14,Holy Trinity Anglican Church,49.2605713,-123.1368052
+15,L'Ecole Bilingue Elementary School,49.2583784,-123.1305109
+16,Seaforth Armoury,49.2710021,-123.1450388
+17,Grandview Elementary School,49.2665332,-123.0740146
+18,Templeton Secondary School,49.2782653,-123.0604413
+20,Queen Victoria Annex,49.2673993,-123.0668217
+21,Thunderbird Elementary School,49.2633765,-123.0314369
+22,Sir John Franklin Community School,49.2825442,-123.0263025
+23,Chief Maquinna Elementary School,49.2682083,-123.0502204
+24,Tillicum Community Annex,49.2863961,-123.0552729
+25,Hastings Community Centre,49.2809348,-123.0394761
+26,Lord Selkirk Elementary School,49.2496796,-123.0687764
+27,Queen Alexandra Elementary School,49.2618323,-123.0770659
+28,Trout Lake Community Centre,49.2553604,-123.065345
+29,Kensington Community Centre,49.2374114,-123.0748062
+30,Sir Richard McBride Annex,49.2419218,-123.085667
+31,Charles Dickens Annex,49.2550198,-123.0831213
+32,Dr. R. E. McKechnie Elementary School,49.2176772,-123.1528876
+33,Kerrisdale Elementary School,49.2361161,-123.1734979
+34,Kerrisdale Community Centre,49.2331436,-123.1567269
+35,Captain James Cook Elementary School,49.2196066,-123.03613
+36,Champlain Heights Community Centre,49.2147903,-123.0316391
+37,Killarney Community Centre,49.2274099,-123.0443906
+38,Kitsilano Neighbourhood House,49.2659182,-123.1580673
+39,Redemption Church,49.2657601,-123.1820856
+40,Lord Tennyson Elementary School,49.2623653,-123.1490803
+41,General Gordon Elementary School,49.2663221,-123.1707145
+42,Kitsilano War Memorial Community Centre,49.2617695,-123.1619525
+43,Westside Baptist Church,49.2080514,-123.1186372
+44,Scottish Cultural Centre,49.2045819,-123.1345297
+46,Kivan Club (Boys and Girls Clubs of South Coast BC),49.2587811,-123.0933369
+47,Simon Fraser Elementary School,49.2571727,-123.1083818
+48,Mount Pleasant Neighbourhood House,49.2623148,-123.0869757
+49,Vancouver City Hall,49.2608169,-123.1140257
+50,Creekside Community Recreation Centre,49.2716878,-123.1054641
+51,Mount Pleasant Community Centre,49.2638621,-123.0999773
+52,Trinity Baptist Church,49.2266322,-123.1392247
+53,Sir William Van Horne Elementary School,49.2317906,-123.1063563
+54,Jewish Community Centre of Greater Vancouver,49.2334436,-123.1267211
+55,John Norquay Elementary School,49.2415161,-123.051239
+56,Renfrew Park Community Centre,49.251126,-123.042724
+57,Collingwood Neighbourhood House,49.2366549,-123.0329903
+58,Windermere Community Secondary School,49.2474729,-123.0378464
+59,Renfrew Community Elementary School,49.2511153,-123.0328521
+60,Sir Charles Tupper Secondary School,49.2496622,-123.0947997
+61,General Brock Elementary School,49.2411996,-123.1012051
+62,Hillcrest Centre,49.2437477,-123.1078644
+62,Hillcrest Centre,49.2437477,-123.1078644
+63,Shaughnessy Elementary School,49.2484539,-123.1436357
+64,Douglas Park Community Centre,49.251974,-123.1224676
+66,Strathcona Community Centre,49.2797705,-123.0915332
+67,Moberly Arts and Cultural Centre,49.2152566,-123.0873691
+68,John Oliver Secondary School,49.2327334,-123.0936755
+69,Sunset Community Centre,49.2228097,-123.1011288
+70,David Oppenheimer Elementary School,49.213644,-123.0579581
+71,Waverley Elementary School,49.2278524,-123.0549953
+72,David Thompson Secondary School,49.220849,-123.0709131
+73,Lord Roberts Elementary School,49.2871154,-123.1384039
+74,Gordon Neighbourhood House,49.28557,-123.1337105
+75,Lord Roberts Annex,49.2831393,-123.129749
+76,Vancouver Aquatic Centre,49.2768869,-123.1351746
+77,King George Secondary School,49.2898482,-123.1366154
+78,West Point Grey Community Centre,49.271588,-123.203993
+79,Lord Byng Secondary School,49.2585237,-123.1921195
+80,St Helen’s Anglican Church,49.2656604,-123.2061761
+200,Carnegie Community Centre,49.2811691,-123.1000211
+201,Roundhouse Community Arts and Recreation Centre,49.2734378,-123.121716
+202,Dunbar Community Centre,49.2437609,-123.1857534
+204,Hastings Community Centre,49.2809348,-123.0394761
+205,Kensington Community Centre,49.2374114,-123.0748062
+206,Trout Lake Community Centre,49.2553604,-123.065345
+207,Kerrisdale Community Centre,49.2331436,-123.1567269
+208,Champlain Heights Community Centre,49.2147903,-123.0316391
+209,Killarney Community Centre,49.2274099,-123.0443906
+210,Kitsilano War Memorial Community Centre,49.2617695,-123.1619525
+211,Creekside Community Recreation Centre,49.2716878,-123.1054641
+212,Mount Pleasant Community Centre,49.2638621,-123.0999773
+213,Vancouver City Hall,49.2608169,-123.1140257
+214,Renfrew Park Community Centre,49.251126,-123.042724
+215,Hillcrest Centre,49.2437477,-123.1078644
+216,Douglas Park Community Centre,49.251974,-123.1224676
+219,Sunset Community Centre,49.2228097,-123.1011288
+220,West End Community Centre,49.2904864,-123.1365569
+221,West Point Grey Community Centre,49.271588,-123.203993
+65,RayCam Co,49.2808201,-123.0839682
+217,RayCam Co,49.2808201,-123.0839682
+45,Marpole,49.2170056,-123.12815
+218,Marpole,49.2170056,-123.12815
+19,Britannia Community Services Centre,49.2750698,-123.0704293
+203,Britannia Community Services Centre,49.2750698,-123.0704293
