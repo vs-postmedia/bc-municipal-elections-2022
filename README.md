@@ -16,9 +16,22 @@ NOTE: There are multiple division IDs associated with three polling stations in 
  Election results are available from CoV [open data portal](https://opendata.vancouver.ca/explore/dataset/municipal-election-results/table/?sort=-election)
 
 ### SURREY
+There are three values assocaited with `vote_type`:
+ * ADV: Advanced voting
+ * GV: General voting
+ * MAIL: Mail-in votes
+
+There are multiple precinct IDs associated with several polling stations in Surrey (marked with an A/B suffix):
+ * Cloverdale Recreation Centre
+ * Fleetwood Community Centre
+ * Guildford Recreation Centre
+ * Queen Elizabeth Secondary
+ * Semiahmoo Secondary
+
+ You will need to filter/tally results associated with duplicate polling stations accordingly.
+
 Vote results from [this HTML page](https://apps.surrey.ca/2022Results/Election%20Results%20per%20Voting%20Opportunity.html) have been converted to csv.
 
-Still waiting on geolocation data for Surrey polling stations.
 
 ### OTHERS
 Make a pull request & we’ll see...
