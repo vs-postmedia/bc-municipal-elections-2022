@@ -1,0 +1,68 @@
+vote_type,precinct_id,name,location,lat,lon
+ADV,80,Chuck Bailey Recreation Centre,Gym,49.196929,-122.8492646
+ADV,84,Cloverdale Recreation Centre,Gym 1,49.11522199,-122.7339871
+ADV,84,Cloverdale Recreation Centre,Gym 2,49.11522199,-122.7339871
+MAIL,9,Election Headquarters (ICC),,49.19150785,-122.8490341
+ADV,82,Fleetwood Community Centre,Large Hall,49.15491889,-122.7795963
+ADV,82,Fleetwood Community Centre,Studio,49.15491889,-122.7795963
+ADV,81,Guildford Recreation Centre,Gym 3,49.19365281,-122.8025253
+ADV,81,Guildford Recreation Centre,MP Room,49.19365281,-122.8025253
+ADV,83,Princess Margaret Secondary,Small Gym,49.13199566,-122.8668824
+ADV,85,Semiahmoo Secondary,Small Gym,49.03493807,-122.8140172
+GV,39,Adams Road Elementary,,49.12605877,-122.7175487
+GV,3,AHP Matthew Elementary,,49.17960552,-122.8534017
+GV,15,Berkshire Park Elementary,,49.17282788,-122.7968291
+GV,9,Bonaccord Elementary,,49.18046219,-122.8069151
+GV,12,Bothwell Elementary,,49.1873215,-122.7489172
+GV,31,Boundary Park Elementary,,49.11700505,-122.880943
+GV,1,Bridgeview Community Centre,,49.21147787,-122.8718695
+GV,26,Chimney Hill Elementary,,49.13809646,-122.8139407
+GV,2,Chuck Bailey Recreation Centre,Gym,49.196929,-122.8492646
+GV,38A,Cloverdale Recreation Centre,Gym 1,49.11522199,-122.7339871
+GV,38B,Cloverdale Recreation Centre,Gym 2,49.11522199,-122.7339871
+GV,17,Coast Meridian Elementary,,49.15235665,-122.7543393
+GV,32,Colebrook Elementary,,49.10138822,-122.8737992
+GV,29,Cougar Creek Elementary,,49.13042857,-122.8833458
+GV,52,Douglas Elementary,,49.00617181,-122.7427918
+GV,51,East Kensington Elementary,,49.05271815,-122.7142822
+GV,33,Ecole Panorama Ridge Secondary,,49.1180553,-122.8550424
+GV,35,Ecole Woodward Hill Elementary,,49.11356609,-122.8278752
+GV,50,Edgewood Elementary,,49.04364954,-122.7606799
+GV,42,Elgin Hall,,49.06708425,-122.8274887
+GV,43,Elgin Park Secondary,,49.04449154,-122.8486207
+GV,16B,Fleetwood Community Centre,Large Hall,49.15491889,-122.7795963
+GV,18,Fleetwood Park Secondary,,49.14742154,-122.7890346
+GV,16A,Fleetwood Community Centre,Studio,49.15491889,-122.7795963
+GV,25,Frank Hurt Secondary,,49.14239568,-122.8365027
+GV,11,Fraser Heights Recreation Centre,,49.19491292,-122.7771197
+GV,28,Georges Vanier Elementary,,49.12977931,-122.829154
+GV,34,Goldstone Park Elementary,,49.11700709,-122.8185267
+GV,19,Green Timbers Elementary,,49.16405295,-122.823137
+GV,10A,Guildford Recreation Centre,Gym 1,49.19365281,-122.8025253
+GV,10B,Guildford Recreation Centre,Gym 2,49.19365281,-122.8025253
+GV,8,Guildford Park Secondary,Big Gym,49.19704973,-122.8193554
+GV,13,Harold Bishop Elementary,,49.19112669,-122.7874168
+GV,47,Jessie Lee Elementary,,49.03976801,-122.7950213
+GV,41,Katzie Elementary,,49.12898357,-122.6851218
+GV,21,Kennedy Trail Elementary,,49.15389121,-122.8836217
+GV,05B,LA Matheson Secondary,Big Gym,49.17546473,-122.884203
+GV,05A,LA Matheson Secondary,Small Gym,49.17546473,-122.884203
+GV,7,Lena Shaw Elementary,,49.18468727,-122.8275312
+GV,40,Maddaugh Elementary,,49.14134313,-122.6852128
+GV,20,Maple Green Elementary,,49.15701729,-122.810021
+GV,48,Morgan Elementary,,49.06288928,-122.7877735
+GV,24,Newton Elementary,,49.15042801,-122.852746
+GV,44,Ocean Cliff Elementary,,49.03803744,-122.8753277
+GV,4,Old Yale Road Elementary,,49.18684964,-122.8574488
+GV,27,Princess Margaret Secondary,Big Gym,49.13199566,-122.8668824
+GV,06B,Queen Elizabeth Secondary,Big Gym,49.17434352,-122.8469774
+GV,06A,Queen Elizabeth Secondary,Small Gym,49.17434352,-122.8469774
+GV,45,Ray Shepherd Elementary,,49.03195576,-122.8449259
+GV,46B,Semiahmoo Secondary,Big Gym,49.03493807,-122.8140172
+GV,46A,Semiahmoo Secondary,Small Gym,49.03493807,-122.8140172
+GV,49,South Meridian Elementary,,49.02566341,-122.7719445
+GV,23,Strawberry Hill Elementary,,49.14162776,-122.8800835
+GV,37,Surrey Centre Elementary,,49.10962094,-122.7589563
+GV,30,Tamanawis Secondary,,49.12206442,-122.871691
+GV,22,Westerman Elementary,,49.14181941,-122.8843244
+GV,14,William F Davidson Elementary,,49.18276817,-122.790865

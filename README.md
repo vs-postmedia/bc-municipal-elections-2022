@@ -13,6 +13,8 @@ NOTE: There are multiple division IDs associated with three polling stations in 
 
  You will need to filter/tally results associated with duplicate polling stations accordingly.
 
+ Election results are available from CoV [open data portal](https://opendata.vancouver.ca/explore/dataset/municipal-election-results/table/?sort=-election)
+
 ### SURREY
 Vote results from [this HTML page](https://apps.surrey.ca/2022Results/Election%20Results%20per%20Voting%20Opportunity.html) have been converted to csv.
 
